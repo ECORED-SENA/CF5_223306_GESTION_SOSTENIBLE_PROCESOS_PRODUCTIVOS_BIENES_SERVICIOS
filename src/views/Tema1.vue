@@ -150,7 +150,7 @@
       .col-auto.p-3.bg-c2
         h4.mb-0 Innovación comercial
     p.mb-5 Consiste en los métodos, técnicas y estrategias innovadoras utilizadas en los diferentes canales de comercialización de un producto o servicio que permiten generar el diferencial ante el consumidor, lo cual ocasiona mayores niveles de venta.  Este tipo de innovación, en los últimos años, ha sido impactado por el amplio uso de la tecnología, el cual ha incentivado el uso de canales virtuales para la comercialización de cualquier tipo de bien o servicio. En el gráfico a continuación, se puede observar un ejemplo de innovación comercial:
-    .row.bg-c10.mb-5
+    .row.bg-c10
       .col-12.p-5
         .row.align-items-center
           .col-lg-7.mb-4.mb-lg-0
@@ -170,7 +170,11 @@
                 figure.mb-2
                   img(src='@/assets/curso/tema1/img15.svg', style="width: 60px")
                 p.mb-0 Algunas tiendas tienen  tiempos de entrega mínimos, que pueden llegar a ser de unos pocos minutos si son entregas de productos alimenticios; inclusive, lapsos inferiores a 24 horas para otro tipo de bienes, como son electrodomésticos y prendas de vestir, entre otros.
-    .row
+    Separador
+    #t_1_2
+    .titulo-segundo.color-acento-botones
+      h2 1.2 Diagnóstico, recolección y análisis de información
+    .row.mb-5
       .col-12
         .bg-c1
           .row.align-items-center
@@ -179,11 +183,6 @@
                 img(src='@/assets/curso/tema1/img16.svg', style="width: 80px").m-auto
             .col-lg
               p.mb-0 Con respecto a la sostenibilidad, en las tiendas virtuales, se destaca que ya no se requiere contar con instalaciones físicas, donde se necesite hacer uso de una iluminación durante toda la jornada, adicionalmente, la publicidad en estos canales es digital, lo cual elimina el uso de papel en volantes, tarjetas y demás elementos de material de promoción y publicidad tradicional.
-    Separador
-    #t_1_2
-    .titulo-segundo.color-acento-botones
-      h2 1.2 Diagnóstico, recolección y análisis de información
-    p.mb-5 Con respecto a la sostenibilidad, en las tiendas virtuales, se destaca que ya no se requiere contar con instalaciones físicas, donde se necesite hacer uso de una iluminación durante toda la jornada, adicionalmente, la publicidad en estos canales es digital, lo cual elimina el uso de papel en volantes, tarjetas y demás elementos de material de promoción y publicidad tradicional.
     .row.h-100.justify-content-evenly.mb-5
       .col-md-9.col-lg-5.mb-4.mb-lg-0
         .row
